@@ -1,6 +1,6 @@
 # SparkX smôl Environmental Peripheral Board
 
-[![SparkX smôl Environmental Peripheral Board (SPX-18976)]()](https://www.sparkfun.com/products/18976)
+[![SparkX smôl Environmental Peripheral Board (SPX-18976)](https://cdn.sparkfun.com/assets/parts/1/8/5/4/3/18976-smo__l_Environmental_Peripheral_Board-01.jpg)](https://www.sparkfun.com/products/18976)
 
 [*SparkX smôl Environmental Peripheral Board (SPX-18976)*](https://www.sparkfun.com/products/18976)
 
